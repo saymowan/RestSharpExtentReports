@@ -2,7 +2,7 @@
 using NUnit.Framework;
 using RestSharp;
 using RestSharpExtentReports.Bases;
-
+using RestSharpExtentReports.Helpers;
 
 namespace RestSharpExtentReports.Tests
 {    

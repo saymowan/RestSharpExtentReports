@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Xml;
 
-namespace RestSharpExtentReports.Bases
+namespace RestSharpExtentReports.Helpers
 {
     public class RestSharpHelpers
     {
